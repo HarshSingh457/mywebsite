@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');body{
+    background-color: rgba(2, 21, 71, 0.918);
+}
+
+h1{
+    font-family:Yuji Hentaigana Akebono;
+    color:rgb(255, 0, 0);
+    font-size: x-large;
+ padding: 100px;
+    padding-left: 20px;
+    padding-bottom: 0px; 
+}
+.Header{
+    color: darkorange;
+    font-family: Pushster;
+    font-size: 50px;
+}
+p{
+    color: lime;
+    font-family: Shizuru;
+    font-size: 30px;
+}
+
+h2{
+    padding-right:600px;
+    font-size: 20px;
+    font-family:cursive;
+    color: white;
+}
+
+.main{display: flex;  flex-wrap: wrap;
+    justify-content: space-around;}
+
+    h3{
+        color:olive;
+        font-family: chiller;
+        font-size: 40px;
+    }
+    
+    .footer{
+        background-color: yellow;
+        
+    }
